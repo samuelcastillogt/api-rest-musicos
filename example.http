@@ -1,0 +1,9 @@
+get http://localhost:3000/api/ofertas/BZTajcGA0AAKEtamt9vK HTTP/1.1
+content-type: application/json
+
+{
+  "titulo": "Ofertas todos los  fines de semana",
+  "autor": "J2XeGfgshFJvsrIragHb",
+  "imagen": "https://firebasestorage.googleapis.com/v0/b/mariachis-6d68b.appspot.com/o/mariachis%2024%20horas.png?alt=media&token=4a96c253-1f27-4bdd-80d5-4e13495a9c49",
+  "descripcion": "Tenemos ofertas este fin de semana, no podra creer el precio tan economico por su serenata."
+}
